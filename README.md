@@ -5,6 +5,7 @@
 
 This plugin is built on base of [gitbook-plugin-expandable-chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters): I found that plugin not available in my gitbook, so I made some changes to it.
 
+
 ### How to use it?
 
 Add it to your `book.json` configuration:
@@ -28,7 +29,7 @@ There is no configuration needed at the moment, can be left empty.
 ```
 {
 	"pluginsConfig": {
-		"expandable-chapters":{}
+		"folding-chapters":{}
 	}
 }
 ```
