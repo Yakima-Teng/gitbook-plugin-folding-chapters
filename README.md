@@ -1,9 +1,12 @@
-#Enable your GitBook with folding chapters
-==============
+# Equip your GitBook with folding chapters
 
-| This plugin adds an icon to each chapter, that has a child and css states for the child list to collapse/expand ones.
 
-This plugin is built on base of [gitbook-plugin-expandable-chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters): I found that plugin not available in my gitbook, so I made some changes to it.
+> This plugin will make chapters of your GitBook collapsible.
+
+
+An example snapshot (gitbook theme used: [gitbook-plugin-theme-code](https://github.com/Yakima-Teng/gitbook-plugin-theme-code)):
+
+![](./preview.png)
 
 
 ### How to use it?
@@ -22,6 +25,7 @@ Install your plugins using:
 $ gitbook install
 ```
 
+
 ### Configuration
 
 There is no configuration needed at the moment, can be left empty.
@@ -34,6 +38,9 @@ There is no configuration needed at the moment, can be left empty.
 }
 ```
 
+Actually, it's okay for you to ignore the above code -- you do not need to type them.
+
+
 ### Thanks
 
-- [gitbook-plugin-expandable-chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters)
+This plugin is built on base of [gitbook-plugin-expandable-chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters): It seems that plugin didn't fit GitBook default theme since version 3.0.0, at least I found that plugin not available in my gitbook, so I create this plugin you are seeing now on base of that plugin.
