@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-folding-chapters",
+  "description": "Equip your GitBook with folding chapters",
+  "main": "index.js",
+  "private": false,
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yakima-Teng/gitbook-plugin-folding-chapters.git"
+  },
+  "author": "Yakima Teng. <cleveryun@163.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Yakima-Teng/gitbook-plugin-folding-chapters/issues"
+  }
+}
