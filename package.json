@@ -3,7 +3,7 @@
   "description": "Equip your GitBook with folding chapters",
   "main": "index.js",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "gitbook": ">=3.0.0"
   },
