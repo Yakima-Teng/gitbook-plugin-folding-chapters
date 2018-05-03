@@ -1,10 +1,17 @@
 {
   "name": "gitbook-plugin-folding-chapters",
-  "keywords": ["gitbook", "plugin", "chapter", "folding", "collapsible", "toggle"],
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "chapter",
+    "folding",
+    "collapsible",
+    "toggle"
+  ],
   "description": "Equip your GitBook with folding chapters",
   "main": "index.js",
   "private": false,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "gitbook": ">=3.0.0"
   },
