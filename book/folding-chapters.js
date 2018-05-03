@@ -10,8 +10,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       .parents(CHAPTER)
       .children('a,span')
       .append(TRIGGER_TEMPLATE)
-      .on('click', '.exc-trigger,> b', function(e) {
-        console.log(e.target)
+      .filter('span')
+      .on('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
         toggle($(e.target).closest(CHAPTER));
