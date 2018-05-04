@@ -17,7 +17,7 @@
 > This plugin will make chapters of your GitBook collapsible.
 
 
-An example snapshot (gitbook theme used: [gitbook-plugin-theme-code](https://github.com/Yakima-Teng/gitbook-plugin-theme-code)):
+An example snapshot (GitBook theme used: [gitbook-plugin-theme-code](https://www.npmjs.com/package/gitbook-plugin-theme-code)):
 
 ![](./preview.png)
 
