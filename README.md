@@ -1,6 +1,19 @@
 # Equip your GitBook with folding chapters
 
 
+<p align="center">
+  <a href="https://npmcharts.com/compare/gitbook-plugin-folding-chapters?minimal=true">
+    <img src="https://img.shields.io/npm/dm/gitbook-plugin-folding-chapters.svg" alt="Downloads">
+  </a>
+  <a href="https://www.npmjs.com/package/gitbook-plugin-folding-chapters">
+    <img src="https://img.shields.io/npm/v/gitbook-plugin-folding-chapters.svg" alt="Version">
+  </a>
+  <a href="https://www.npmjs.com/package/gitbook-plugin-folding-chapters">
+    <img src="https://img.shields.io/npm/l/gitbook-plugin-folding-chapters.svg" alt="License">
+  </a>
+</p>
+
+
 > This plugin will make chapters of your GitBook collapsible.
 
 
