@@ -16,10 +16,11 @@
 
 > This plugin will make chapters of your GitBook collapsible.
 
+**This GitBook plugin won't work with the official GitBook default theme, because there are some bugs in that official theme. It's strongly recommended to use the GitBook theme [gitbook-plugin-theme-code](https://www.npmjs.com/package/gitbook-plugin-theme-code) instead of the default theme.**
 
 An example snapshot (GitBook theme used: [gitbook-plugin-theme-code](https://www.npmjs.com/package/gitbook-plugin-theme-code)):
 
-![](./preview.png)
+![gitbook-plugin-theme-code](./preview.png)
 
 
 ### How to use it?
