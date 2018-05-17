@@ -9,7 +9,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
     $(ARTICLES)
       .parents(CHAPTER)
       .children('a,span')
-      .append(TRIGGER_TEMPLATE)
+      .prepend(TRIGGER_TEMPLATE)
       .filter('span')
       .on('click', function(e) {
         e.preventDefault();
