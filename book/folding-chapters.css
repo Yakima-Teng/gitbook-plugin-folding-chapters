@@ -1,7 +1,6 @@
 .book .book-summary .chapter > .articles {
 	overflow: hidden;
 	max-height: 0px;
-  padding-left: 0;
 }
 
 .book .book-summary .chapter.expanded > .articles {
