@@ -16,6 +16,10 @@
   	content: "\f105";
 }
 
+.book .book-summary i:not(.expanded) {
+	width: 9.2px;
+}
+
 .book .book-summary .expanded > a .exc-trigger:before,
 .book .book-summary .expanded > span .exc-trigger:before {
 	content: "\f107";
