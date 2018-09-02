@@ -12,6 +12,10 @@
 	cursor: pointer;
 }
 
+.book .book-summary ul.summary .chapter>a {
+	margin-top: 15px;
+}
+
 .book .book-summary .exc-trigger:before {
   	content: "\f105";
 }
