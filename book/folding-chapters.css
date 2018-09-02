@@ -12,11 +12,19 @@
 	cursor: pointer;
 }
 
+.book .book-summary ul.summary .chapter>a {
+	margin-top: 15px;
+}
+
 .book .book-summary .exc-trigger:before {
-  	content: "\f054";
+  	content: "\f105";
+}
+
+.book .book-summary i:not(.expanded) {
+	width: 9.2px;
 }
 
 .book .book-summary .expanded > a .exc-trigger:before,
 .book .book-summary .expanded > span .exc-trigger:before {
-	content: "\f078";
+	content: "\f107";
 }
